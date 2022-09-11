@@ -5,11 +5,11 @@
   
   # install in Termux
   ```bash
-  pip -r install requirements.txt
+  pip install -r requirements.txt
   ```
   # install in Linux
   ```bash
-  sudo pip3 -r install requirements.txt
+  sudo pip3 install -r requirements.txt
   ```
   # usage
   ```bash
