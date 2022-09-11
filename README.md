@@ -1,8 +1,8 @@
-<p align="center"><image src="https://drive.google.com/file/d/1BEMbKgV1FqK6mb76vn5giokUbhxZqgf_/view?usp=sharing"</p>
+<p align="center"><image src=" http://docs.google.com/uc?export=open&amp;id=1BEMbKgV1FqK6mb76vn5giokUbhxZqgf"</p>
   <br>
   
   tool ini adalah tool encode
-  
+ 
   # install in Termux
   ```bash
   git clone https://github.com/bimasena321/encode.git
