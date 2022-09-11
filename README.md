@@ -5,6 +5,7 @@
   
   # install in Termux
   ```bash
+  https://github.com/bimasena321/encode
   pip install -r requirements.txt
   ```
   # install in Linux
