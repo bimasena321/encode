@@ -1,6 +1,5 @@
-<p align="center"><image src=" http://docs.google.com/uc?export=open&amp;id=1BEMbKgV1FqK6mb76vn5giokUbhxZqgf"</p>
+<p align="center"><image src="https://www.bing.com/th?id=OIP.wSZXt_MiRKDTsJynL5138QHaE8&w=141&h=100&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"></p>
   <br>
-  
   tool ini adalah tool encode
  
   # install in Termux
