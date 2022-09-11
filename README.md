@@ -1,19 +1,22 @@
-<p align="center"><image src="https://th.bing.com/th/id/OIP.fBzv4v3_uB9B2vQhAjQ-RwHaDk?w=286&h=168&c=7&r=0&o=5&pid=1.7"</p>
+<p align="center"><image src="https://drive.google.com/file/d/1BEMbKgV1FqK6mb76vn5giokUbhxZqgf_/view?usp=sharing"</p>
   <br>
   
   tool ini adalah tool encode
   
   # install in Termux
   ```bash
-  https://github.com/bimasena321/encode
+  git clone https://github.com/bimasena321/encode.git
   pip install -r requirements.txt
+  chmod +x *
   ```
   # install in Linux
   ```bash
+  git clone https://github.com/bimasena321/encode.git
   sudo pip3 install -r requirements.txt
+  chmod +x *
   ```
   # usage
   ```bash
-  python3 encode.py
+  python3 pesan.py
   ```
   
